@@ -1,4 +1,4 @@
-# fetchwrapper
+# fetchWrapper
 A simple wrapper for fetch with custom error messages
 
 ## JSDoc
