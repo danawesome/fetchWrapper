@@ -21,8 +21,8 @@ const options = {
     method: "GET",
     credentials: "include"
     headers: {
-        "Content-Type": "application/json;odata=notmetadata",
-        Accept: "application/json;odata=notmetadata",
+        "Content-Type": "application/json;odata=nometadata",
+        Accept: "application/json;odata=nometadata",
     }
 }
 const response = fetchwrapper(url,options);
